@@ -1,2 +1,2 @@
 temperatura = 60
-print(f"Sensor ativo: {temperatura} C")
+print(f"graaaaaaauuuuuuussssss {temperatura} C")
